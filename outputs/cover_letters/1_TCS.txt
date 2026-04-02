@@ -1,0 +1,15 @@
+Company : TCS
+Role    : Python Developer
+Email   : careers@tcs.com
+==================================================
+
+Dear Hiring Manager,
+
+I am excited to apply for the Python Developer position at TCS, where I can leverage my skills and experience to drive innovation and efficiency. With 2 years of experience in building AI applications using Python, FastAPI, LangChain, and LangGraph, I am confident in my ability to deliver high-quality solutions that drive business impact.
+
+As a dedicated developer, I am committed to fostering a culture of inclusion and diversity, aligning with TCS's values of creating a culturally safe environment. I am impressed by the company's efforts to promote a safe and inclusive workplace, and I am eager to contribute to this mission.
+
+Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+Krimal Patel

@@ -1,0 +1,15 @@
+Company : Amazon
+Role    : Python Developer
+Email   : careers@amazon.com
+==================================================
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Python Developer position at Amazon. As a dedicated and experienced Python developer with 2 years of experience in building AI applications, I am confident that I can make a valuable contribution to your dynamic team.
+
+With expertise in Python, FastAPI, and LangChain, I have a proven track record of delivering high-quality solutions that meet complex business needs. I am excited about the opportunity to join Amazon's innovative environment and contribute to the company's mission to revolutionize the way people live, work, and shop.
+
+I am particularly drawn to Amazon's positive company culture, as rated 4.0 out of 5 by 31.3k employees. I am eager to be a part of a team that values innovation, efficiency, and customer satisfaction.
+
+Thank you,
+Krimal Patel

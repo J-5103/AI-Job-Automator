@@ -1,0 +1,15 @@
+Company : Infosys
+Role    : Python Developer
+Email   : careers@infosys.com
+==================================================
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Python Developer position at Infosys. As a dedicated and experienced Python developer with 2 years of experience in building AI applications, I am confident in my ability to drive innovation and deliver high-quality solutions.
+
+With expertise in Python, FastAPI, LangChain, and LangGraph, I am well-equipped to contribute to the development of cutting-edge projects at Infosys. My tailored approach to problem-solving and passion for staying up-to-date with the latest technologies make me an ideal fit for your dynamic team.
+
+I am excited about the opportunity to apply my technical skills and expertise to drive success at Infosys. I have attached my resume for your review. Thank you.
+
+Sincerely,
+Krimal Patel
