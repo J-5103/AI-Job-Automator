@@ -61,16 +61,16 @@ An intelligent multi-agent AI system built with **LangGraph** that automatically
 ### Subgraphs Detail:
 
 - Research Subgraph:
-  job_search_node        ← Tavily web search
-  company_research_node  ← Company background
+  - job_search_node        ← Tavily web search
+  - company_research_node  ← Company background
 
 - Content Subgraph:
-  tailor_resume_node     ← AI resume customization
-  cover_letter_node      ← AI cover letter writing
+  - tailor_resume_node     ← AI resume customization
+  - cover_letter_node      ← AI cover letter writing
 
 - Apply Subgraph:
-  send_applications_node ← Gmail SMTP
-  save_tracker_node      ← Excel file
+  - send_applications_node ← Gmail SMTP
+  - save_tracker_node      ← Excel file
 
 ## 🛠️ Tech Stack
 
