@@ -1,0 +1,78 @@
+JIMI PATEL 
+Data Scientist | AIML Engineer | Generative AI | Agentic AI 
+Pateljimi53@gmail.com | +91 6351614963 | LinkedIn : jimi-patel  | GitHub : J-5103 
+OBJECTIVE 
+Enthusiastic and aspiring AI Agent beginner with a strong interest in LLM-powered agents and automation. Eager to apply 
+foundational skills in Python, prompt design, data handling, and basic model evaluation to gain hands-on experience and 
+contribute to a collaborative team. Seeking an entry-level opportunity to grow my technical skills and build reliable, real-world 
+AI agent workflows. 
+EDUCATION 
+Government Engineering Collage , Modasa  
+Bachelor Of Engineering: CGPA : 8.23 
+Shree B.S. Patel Sarvoday Highschool 
+H.S.C. : Percentage : 82.17% 
+SKILLS SUMMARY 
+Modasa , Gujarat 
+Oct 2021 – Apr 2025 
+Chanasma , Gujarat 
+June 2018 - August 2021 
+Languages: Python , SQL, JAVA 
+Frameworks: Numpy, Pandas, Matplotlib, Seaborn, Plotly, OpenCV, Scikit-Learn, Tensorflow, Beautifulsoup, Streamlit, 
+Flask, FastAPI, Sqlite,Langchain , Langgraph 
+Tools: 
+Soft Skills: 
+PROJECTS 
+Power BI, Excel, PostgreSQL , GIT, Docker 
+Analysis, People Management, Excellent communication 
+Document Chatbot — Multi-File RAG & Visual Analytics | LINK 
+• Built a full-stack document Q&A assistant with React/TypeScript + FastAPI; per-chat storage in 
+uploaded_docs/{chatId} and auto-created FAISS vector stores in vectorstores/{chatId} with async indexing & 
+status polling. 
+• Enabled single-file and cross-document queries for PDF/Word/Excel/CSV/images; UI lets users select one file 
+or combine files, and backend routes document IDs to scope retrieval for accurate answers. 
+• Added a Visualization Chat: on prompts like “first/last 30 rows” or “plot X vs Y,” generates charts from 
+selected/combined datasets using Pandas/Matplotlib and returns images inline in the chat. 
+Revenue Forecasting and Trend Analysis for Business Growth | LINK 
+• Utilized Pandas, NumPy, Streamlit, Matplotlib, Seaborn, and Scikit-learn for data processing, visualization, 
+and predictive modeling. 
+• Implemented trend analysis and revenue forecasting techniques to provide actionable business insights. 
+• Designed an interactive dashboard for real-time data visualization and analysis. 
+Intelligent Skill-Based Role Recommendation Model for Optimized Recruitment | LINK 
+• Implemented Pandas, NumPy, Streamlit, Matplotlib, Seaborn, and Scikit-learn for data processing, 
+visualization, and model building. 
+• Integrated login/signup with email authentication for secure access. 
+• Enabled data input via forms, Google Forms, or CSV upload for flexibility. 
+Intelligent Customer Segmentation and Predictive Insights for B2C Growth | LINK 
+• Applied clustering and predictive analytics to identify customer segments and forecast behaviors. 
+• Utilized Pandas, NumPy, Streamlit, Matplotlib, Seaborn, and Scikit-learn for data processing, visualization, 
+and model building. 
+• Designed an interactive dashboard for real-time insights and strategic decision-making. 
+IPL Analytics Dashboard | LINK 
+• Developed an IPL Analytics Dashboard for interactive cricket data analysis. 
+• Utilized Pandas, NumPy, Streamlit, Matplotlib, Seaborn, and Machine Learning for data visualization and 
+insights. 
+• Provided team and player performance analysis, match statistics, and trend insights. 
+• Designed an interactive and user-friendly dashboard for real-time exploration of IPL data. 
+EXPERIENCE 
+Infolabz Technologies 
+Jan 2025 to May 2025 
+• Performed data preprocessing, feature engineering, and exploratory data analysis using Pandas, NumPy, and Matplotlib. 
+• Built and evaluated machine learning models using Scikit-learn for classification, regression, and clustering tasks. 
+• Developed interactive dashboards using Streamlit for visualizing insights and improving decision-making. 
+AIML Developer — Prashi Solution 
+June 2025 – Oct 2025 
+• Developing AI agents and RAG-based document chatbots using Python, FastAPI, LangChain, and FAISS/Pinecone for 
+semantic search. 
+• Fine-tuning and evaluating LLMs/classical ML models (PyTorch/Scikit-learn) with robust dataset prep, prompt design, 
+and guardrails. 
+• Shipping scalable microservices with Docker and CI/CD; instrumenting monitoring & logging for model and API 
+performance. 
+• Building data/feature pipelines and automated evaluation harnesses (precision/recall, latency, safety checks). 
+• Partnering with product/QA to translate requirements into deliverables; writing clear technical docs and doing code 
+reviews. 
+CERTIFICATION AND EXTRA-CURRICULAR ACTIVITIES 
+Complete Data Science Bootcamp 2024 by 365 Carrers (Udemy) | CERTIFICATE 
+Complete Data Science,Machine Learning,DL,NLP Bootcamp by Krish Nayak (Udemy) | CERTIFICATE 
+Data Science for Engineers (NTPEL) | CERTIFICATE 
+Foundation of Cloud IoT Edge ML (NTPEL) | CERTIFICATE 
+Attend SSIP Hackathon.
