@@ -6,25 +6,25 @@ An intelligent multi-agent AI system built with **LangGraph** that automatically
 
 🚀 AI Job Application Automator Starting...
 
-🤖 Supervisor: Starting workflow...
-   Job Role : Python Developer
-   Applicant: Krimal Patel
+- 🤖 Supervisor: Starting workflow...
+   - Job Role : Python Developer
+   - Applicant: Jimi Patel
 
 📌 Running Research Subgraph...
-🔍 Searching real jobs with Tavily...
-   ✅ Found 3 real jobs!
-🏢 Researching companies...
-   ✅ Researched: TCS, Infosys, Wipro
+- 🔍 Searching real jobs with Tavily...
+   - ✅ Found 3 real jobs!
+ - 🏢 Researching companies...
+   - ✅ Researched: TCS, Infosys, Wipro
 
 📌 Running Content Subgraph...
-📄 Tailoring resumes...
-   ✅ All resumes tailored!
-✍️  Writing cover letters...
-   ✅ All cover letters written!
+- 📄 Tailoring resumes...
+   - ✅ All resumes tailored!
+- ✍️  Writing cover letters...
+   - ✅ All cover letters written!
 
-==================================================
+
 🛑 HUMAN APPROVAL REQUIRED
-==================================================
+
   1. Senior Python Developer at TCS (Ahmedabad)
   2. Python Developer at Infosys (Bangalore)
   3. Python Lead at Wipro (Remote)
@@ -32,16 +32,16 @@ An intelligent multi-agent AI system built with **LangGraph** that automatically
 ✅ Auto Approved!
 
 📌 Running Apply Subgraph...
-📧 Sending real emails...
-   ✅ Email sent to hr@tcs.com!
-   ✅ Email sent to careers@infosys.com!
-   ✅ Email sent to jobs@wipro.com!
-📊 Excel tracker saved!
+- 📧 Sending real emails...
+   - ✅ Email sent to hr@tcs.com!
+   - ✅ Email sent to careers@infosys.com!
+   - ✅ Email sent to jobs@wipro.com!
+- 📊 Excel tracker saved!
 
 🎉 FINAL RESULTS
-✅ Real Emails Sent : 3
-✅ Tracker Saved   : outputs/applications.xlsx
-✅ Cover Letters   : outputs/cover_letters/
+- ✅ Real Emails Sent : 3
+- ✅ Tracker Saved   : outputs/applications.xlsx
+- ✅ Cover Letters   : outputs/cover_letters/
 
 ## ✨ Features
 
